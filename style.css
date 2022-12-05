@@ -79,12 +79,15 @@ h1{
 .infos{
     background-color: white;
     text-align: center;
+    padding: 50px 20%;
 }
 
 .subüberschrift{
     font-size: 36px;
     font-weight: 900;
-    color: #1F2937
+    color: #1F2937;
+    margin-top: -0.83em;
+    margin-bottom: -0.2em;
     
 }
 .infoleiste{
@@ -116,4 +119,18 @@ ul{
     width: 200px;
     
 
+}
+.zitat_feld {
+    background-color: #E5E7EB;
+    padding: 50px 20%;
+}
+.zitat {
+    font-size: 36px;
+    font-style: light italic;
+    color: #1F2937;
+}
+.zitatgeber {
+    text-align: right;
+    font-weight: 800;
+    font-size:20px;
 }
