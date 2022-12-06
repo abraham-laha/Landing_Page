@@ -1,7 +1,7 @@
 body{
     padding: 0px;
     margin: 0px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Roboto','Times New Roman', Times, serif;
 }
 a {
     text-decoration: none;
@@ -15,7 +15,7 @@ a {
     color: #E5E7EB;
     margin:0px;
     padding: 25px 120px 70px 120px;
-    font-family: 'Hero Secondary text';
+    font-family: 'Roboto';
     display:flex;
     flex-direction: column;
     row-gap: 40px;
@@ -126,7 +126,7 @@ ul{
 }
 .zitat {
     font-size: 36px;
-    font-style: light italic;
+    font-style: italic;
     color: #1F2937;
 }
 .zitatgeber {
